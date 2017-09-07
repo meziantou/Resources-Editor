@@ -214,3 +214,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/.vs/ResourcesEditor/v15/sqlite3/storage.ide
