@@ -2,8 +2,8 @@ This tool give you a simplified way to edit your resources (ResX files) in combi
 
 # Points of interests
 
-- Show all resources in one view
-- Quickly identify not translated messages
+- Show all resources for all cultures in one view
+- Colorize missing translations, so you can find them easily
 
 ![Resources Editor](images/capture.png)
 
