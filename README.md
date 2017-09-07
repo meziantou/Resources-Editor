@@ -5,6 +5,8 @@ This tool give you a simplified way to edit your resources (ResX files) in combi
 - Show all resources in one view
 - Quickly identify not translated messages
 
+![Resources Editor](images/capture.png)
+
 # Limitations
 
 - Works only with ResX files
